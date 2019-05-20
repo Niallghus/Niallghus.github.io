@@ -1,0 +1,23 @@
+.lbut {
+    width: 112%;
+    text-align: center;
+    background-color: white;
+    border-color: black;
+}
+.container {
+    background: white;
+}
+.bg{
+    background: black;
+}
+.hed {
+    background: black;
+    color: white;
+    height: 32px;
+}
+.hed2 {
+    text-align: center;
+}
+.ph {
+    background: white;
+}
